@@ -1,7 +1,3 @@
-### Hi there 👋
-
-I'm a Software Engineer Undergraduate with an interest in fullstack web applications.
-
 <h3>Languages</h3>
 <div>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
