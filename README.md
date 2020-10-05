@@ -23,7 +23,7 @@
 <h3>Learning</h3>
 <div>
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498db?style=flat-square&logo=flutter&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
 </div>
 
 <!--
