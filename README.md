@@ -5,19 +5,23 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-2c3e50?style=flat-square&logo=C&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-2c3e50?style=flat-square&logo=C&logoColor=white" />
 </div>
 
-<h3>Frameworks | Services</h3>
+<h3>Frameworks | Engines</h3>
 <div>
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-764ABC?style=flat-square&logo=Gitlab&logoColor=white" />
-    <img alt="Unity 3D" src="https://img.shields.io/badge/-Unity 3D-2c3e50?style=flat-square&logo=Unity&logoColor=white" />
-    <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+    <img alt="Unity3D" src="https://img.shields.io/badge/-Unity3D-2c3e50?style=flat-square&logo=Unity&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
+</div>
+
+<h3>Services</h3>
+<div>
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-764ABC?style=flat-square&logo=Gitlab&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </div>
 
 <h3>Learning</h3>
