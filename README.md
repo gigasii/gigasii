@@ -12,8 +12,8 @@
 <h3>Frameworks | Engines</h3>
 <div>
     <img alt="Unity3D" src="https://img.shields.io/badge/-Unity3D-2c3e50?style=flat-square&logo=Unity&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </div>
 
 <h3>Services</h3>
