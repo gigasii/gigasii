@@ -7,7 +7,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=C++&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C#-239120?style=flat-square&logo=CSharp&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C-Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white" />
 </div>
 
 <h3>Frameworks | Engines</h3>
