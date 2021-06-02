@@ -13,6 +13,7 @@
 <div>
     <img alt="Unity3D" src="https://img.shields.io/badge/-Unity3D-2c3e50?style=flat-square&logo=Unity&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
+    <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </div>
@@ -23,11 +24,6 @@
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-764ABC?style=flat-square&logo=Gitlab&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-</div>
-
-<h3>Learning</h3>
-<div>
-    <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-3498db?style=flat-square&logo=flutter&logoColor=white" />
 </div>
 
 <!--
