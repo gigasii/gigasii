@@ -14,8 +14,8 @@
     <img alt="Unity3D" src="https://img.shields.io/badge/-Unity3D-2c3e50?style=flat-square&logo=Unity&logoColor=white" />
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
 </div>
 
