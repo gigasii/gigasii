@@ -5,7 +5,7 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript" />
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-34495e?style=flat-square&logo=TypeScript&logoColor=yellow" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white" />
 </div>
@@ -24,7 +24,7 @@
 <div>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=blue" />
 </div>
 
 <h3>Services</h3>
