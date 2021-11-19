@@ -33,6 +33,7 @@
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-764ABC?style=flat-square&logo=Gitlab&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-3498db?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
 <!--
