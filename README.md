@@ -4,7 +4,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-2980b9?style=flat-square&logo=css3&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white" />
 </div>
