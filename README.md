@@ -5,8 +5,8 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript&logoColor=yellow" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-34495e?style=flat-square&logo=TypeScript&logoColor=blue" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python&logoColor=blue" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=C-Sharp&logoColor=white" />
 </div>
 
