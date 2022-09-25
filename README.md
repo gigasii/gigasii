@@ -27,7 +27,7 @@
 <div>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=dyanamodb&logoColor=white" />
+  <img alt="Amazon DynamoDB" src="https://img.shields.io/badge/-Amazon DynamoDB-4053D6?style=flat-square&logo=amazon dynamodb&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=blue" />
 </div>
 
