@@ -19,8 +19,8 @@
     <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-3498db?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </div>
 
 <h3>Databases</h3>
